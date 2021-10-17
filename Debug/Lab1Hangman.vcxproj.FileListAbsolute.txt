@@ -1,0 +1,4 @@
+C:\Users\270058186\OneDrive - UP Education\Desktop\CS103\VSCodes\Lab1Hangman\Debug\Lab1Hangman.exe
+C:\Users\270058186\OneDrive - UP Education\Desktop\CS103\VSCodes\Lab1Hangman\Debug\Lab1Hangman.pdb
+C:\Users\micha\Desktop\CS103\Code\Lab1Hangman-main\Debug\Lab1Hangman.exe
+C:\Users\micha\Desktop\CS103\Code\Lab1Hangman-main\Debug\Lab1Hangman.pdb

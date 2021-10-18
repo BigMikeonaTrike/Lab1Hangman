@@ -1,3 +1,1 @@
-﻿  Lab1Hangman.cpp
-C:\Users\micha\Desktop\CS103\Code\Lab1Hangman-main\Lab1Hangman.cpp(62,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Lab1Hangman.vcxproj -> C:\Users\micha\Desktop\CS103\Code\Lab1Hangman-main\Debug\Lab1Hangman.exe
+﻿  Lab1Hangman.vcxproj -> C:\Users\micha\Desktop\CS103\Code\Lab1Hangman-main\Debug\Lab1Hangman.exe
